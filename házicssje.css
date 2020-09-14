@@ -1,0 +1,38 @@
+body{
+	background-size:cover;
+    background-image:url("linuxpingvin.jpg");
+    font-family:Arial, Helvetica, sans-serif;
+    position: fixed;
+    background-color: rgba(236, 196, 9, 1);
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#keret{
+	width:60%;
+	padding:53px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+	border-bottom:4px solid white;
+    letter-spacing: 5px;
+}
+#bevezeto{
+	width:50%;
+	border:2px inset white;
+	text-align: center;
+	padding:7px;
+    margin: auto;
+    font-style: italic;
+    font-size: 15px;
+}
+#kep{
+	width:20%;
+
+}
+p{
+    text-align: justify-all;
+}
